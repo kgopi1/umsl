@@ -1,0 +1,3 @@
+module "umsl" {
+  source = "../../modules"
+}
